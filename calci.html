@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALCULATOR</title>
+    <link rel="stylesheet" href="./calci.css">
+</head>
+<body>
+    <table border="1" cell spacing="10px" cell padding="10px">
+    <caption><h1>simple calculator</h1></caption>
+    <tr>
+        <td colspan="3" align="center" bgcolor="black"><input type="text" class="t" id="res"></td>
+        <td align="center"><button class="c" onclick="ac()">AC</button></td>
+    </tr>
+
+    <tr>
+        <td align="center"><button class="c" onclick="display('1')">1</button></td>
+        <td align="center"><button class="c" onclick="display('2')">2</button></td>
+        <td align="center"><button class="c" onclick="display('3')">3</button></td>
+        <td align="center"><button class="c" onclick="display('+')">+</button></td>
+    </tr>
+    <tr>
+        <td align="center"><button class="c" onclick="display('4')">4</button></td>
+        <td align="center"><button class="c" onclick="display('5')">5</button></td>
+        <td align="center"><button class="c" onclick="display('6')">6</button></td>
+        <td align="center"><button class="c" onclick="display('-')">-</button></td>
+    </tr>
+    <tr>
+    <td align="center"><button class="c" onclick="display('7')">7</button></td>
+    <td align="center"><button class="c" onclick="display('8')">8</button></td>
+    <td align="center"><button class="c" onclick="display('9')">9</button></td>
+    <td align="center"><button class="c" onclick="display('*')">*</button></td>
+    /</tr>
+    <tr>
+        <td align="center"><button class="c" onclick="display('0')">0</button></td>
+        <td align="center"><button class="c" onclick="display('%')">%</button></td>
+        <td align="center"><button class="c" onclick="display('/')">/</button></td>
+        <td align="center"><button class="c" onclick="cal('=')">=</button></td>
+    </tr>
+    <script src="./calci.js"></script>
+</body>
+</html>
