@@ -1,0 +1,151 @@
+[
+    {
+        "studentName":"shashank sir",
+        "courseName":"database",
+        "skills":"sql",
+        "duration":"2 months",
+        "studentphoto":"https://www.uphe.com/sites/default/files/styles/scale__344w_/public/HeManAndTheMastersOfTheUniverseCS_PosterArt.webp?itok=8iNOMtqa"
+    },
+    {
+        "studentName":"kiran sir",
+        "courseName":"project",
+        "skills":["sdlc","agile","alm","jira"],
+        "duration":"2 months",
+        "studentphoto":"https://m.media-amazon.com/images/M/MV5BNzE0NzY2NDEtNGYxNS00OWU4LWEzNjAtNmNmM2FkYTcyOGQ2XkEyXkFqcGdeQXVyMTA3OTEyODI1._V1_.jpg"
+    },
+    {
+        "studentName":"rahul sir",
+        "courseName":"react js",
+        "skills":["html","css","js"],
+        "duration":"2 months",
+        "studentphoto":"https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/7n7jgupdqcg32iah_1660301109.jpeg"
+    },
+    {
+        "studentName":"sridhar sir",
+        "courseName":"java",
+        "skills":["programming","hibernate","servlets"],
+        "duration":"2 months",
+        "studentphoto":"https://t4.ftcdn.net/jpg/02/80/81/53/360_F_280815336_uQYluyLUCUBkjqVZpFysGPrPwgxIDfQy.jpg"
+    },
+    {
+        "studentName":"mohan sir",
+        "courseName":"sql",
+        "skills":"database",
+        "duration":"2 months",
+        "studentphoto":"https://img.freepik.com/free-vector/king-with-blue-robe-cartoon-character-sticker_1308-74578.jpg?w=2000"
+    },
+    {
+        
+        "studentName":"yashank",
+        "courseName":"maths",
+        "skills":"basics",
+        "duration":"2 months",
+        "studentphoto":"https://cdn5.vectorstock.com/i/1000x1000/76/69/color-king-lion-on-white-vector-33947669.jpg"
+    },
+    {
+        "studentName":"harry",
+        "courseName":"movies",
+        "skills":"magic",
+        "duration":"2 months",
+        "studentphoto":"https://i.pinimg.com/736x/24/70/16/247016dfe91b8b0d6ff89b128cfcbae7.jpg"
+    },
+    {
+        "studentName":"Mr.bean",
+        "courseName":"fun",
+        "skills":"sense of humour",
+        "duration":"2 months",
+        "studentphoto":"https://m.media-amazon.com/images/M/MV5BMTY2NGRlZTgtZWU1ZC00NzhkLTgyMmYtYTQyZDgzYmE0ZmYzXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+    },
+    {
+        "studentName":"ramya",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://i.pinimg.com/564x/48/bf/66/48bf66bd49af026d27c8a0176b5c6dc7.jpg"
+     },
+     {
+
+        "studentName":"nityamenon",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://i.pinimg.com/originals/4f/2e/b0/4f2eb09beb2a3a48fa58ea611be3bfbd.jpg"
+    },
+    {
+        "studentName":"nazriya",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://i.pinimg.com/originals/d3/d4/0f/d3d40f5b1176fb51339f942c89f5ecc5.jpg"
+    },
+    {
+        "studentName":"parvathi",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://www.chitramala.in/wp-content/uploads/2018/05/parvathy-accident.jpg"
+    },
+    {
+        "studentName":"anupama",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://wallpaperaccess.com/full/1620317.jpg"
+    },
+    {
+        "studentName":"rakshita",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://static.toiimg.com/thumb/61405389.cms?width=170&height=240&imgsize=64553"
+    },
+    {
+        "studentName":"samantha",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://www.behindwoods.com/tamil-actress/samantha-ruth-prabhu/samantha-ruth-prabhu-stills-photos-pictures-2008.jpg"
+    },
+    {
+        "studentName":"sowndary",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://www.filmibeat.com/img/220x80x275/popcorn/profile_photos/krithi-shetty-20210913111826-44727.jpg"
+     },
+     {
+        "studentName":"poornima",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://teqip.in/wp-content/uploads/2023/01/Shalini-Pandey-683x1024.jpg"
+     },
+     {
+        "studentName":"mala",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://www.dailypioneer.com/uploads/2016/story/images/big/158723_Untitled-2.gif"
+     },
+     {
+        "studentName":"pooja",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://www.curlsandbeautydiary.com/wp-content/uploads/2016/06/taapsee-pannu-indian-celebrity-curly-hair.jpg"
+    },
+    {
+        "studentName":"ammu",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://images.news18.com/ibnlive/uploads/2021/01/1611739012_kangana-ranaut-3.jpg?impolicy=website&width=0&height=0"
+    },
+    {
+        "studentName":"sush",
+        "courseName":"movies",
+        "skills":"heroine",
+        "duration":"2 months",
+        "studentphoto":"https://www.eastcoastdaily.in/wp-content/uploads/2018/06/sai-6.jpg"
+    }
+]
