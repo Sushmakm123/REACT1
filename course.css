@@ -1,0 +1,24 @@
+.parentBlock{
+    
+    justify-content: space-evenly;
+    
+}
+.mainBlock{
+border: 2px solid red;
+width: 350px;
+display: flex; 
+flex-direction: column; 
+justify-content:center; 
+align-items:center;
+margin: 5px;
+}
+.midBlock{
+
+    display: flex;
+    justify-content: space-evenly;
+
+} 
+img{
+    width: 200px; 
+    height: 200px;
+} 
