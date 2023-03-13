@@ -1,8 +1,12 @@
 import React from 'react'
 import { Component } from 'react';
 class App extends Component{
-state={
-    username:"sam"
+    constructor()
+    {
+super()
+this.state={
+    username:"raj"
+}
 }
 render()
 {
