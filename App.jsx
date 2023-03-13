@@ -1,15 +1,18 @@
 import React from 'react'
-import Training from './Components/Training';
-
-const App=()=>{
+import { Component } from 'react';
+class App extends Component{
+ constructor()
+{
+super()
+this.state={
+    username:"raj"
+}
+}
+render()
+{
     return(
-        <>
-      <Training   Details={{
-            Name:"java full stack",
-            Availability:true,
-            Duration:"3 months"}} />
-        
-</>
+        <h1>{this.state.username}</h1>
     )
+}
 }
 export default App;
