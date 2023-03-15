@@ -1,0 +1,17 @@
+*{
+background-color:gray ;
+text-align: center;
+}
+
+.a{
+    margin-right:5px;
+    background-color: green;
+}
+.b{
+    margin-right: 5px;
+    background-color: red;
+}
+.c{
+    margin-right: 5px;
+    background-color: white;
+}
