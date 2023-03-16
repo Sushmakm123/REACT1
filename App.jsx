@@ -1,39 +1,27 @@
-import React, { Component } from 'react'
-import './count.css'
-
-export default class App extends Component {
-constructor(){
-    super()
-    this.state={count:0}
-}
-handleIncrement=()=>{
-    this.setState({count:this.state.count+1})
-}
-handleDecrement=()=>{
-    this.setState({count:this.state.count-1})
-}
-handleReset=()=>{
-    this.setState({count:0})
-}
-render() {
-    return (
-      <div className='mainblock'>
-        <h1>{this.state.count}</h1>
-        <div className='btngroup'>
-            <button className='a' onClick={this.handleIncrement}>+ increment</button>
-            <button className='b' onClick={this.handleDecrement}>- decrement </button>
-            <button className='c' onClick={this.handleReset}>reset </button>
-        </div>
-
-      </div>
-    )
+import React,{useState} from 'react'
+import './functioncounter.css'
+const App=()=>{
+  let [count,setCount]=useState(0)
+  let handleIncrement=()=>{
+    setCount(count +1)
   }
+  let handleDecrement=()=>{
+setCount(count -1)
+  }
+let handleReset=()=>{
+  setCount(0)
 }
-
-
-
-
-
-
-
-
+return(
+<>
+<div className='mainblock'>
+  <h1>{count}</h1>
+<div className='subblock'>
+  <button className='a'   onClick={handleIncrement}>increment +</button>
+  <button className='b' onClick={handleDecrement}>decrement -</button>
+  <button className='c' onClick={handleReset}>reset</button>
+</div>
+</div>
+</>
+)
+} 
+export default App;
